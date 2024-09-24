@@ -1,11 +1,9 @@
 # EXPERIMENT 01 ALP FOR 8086
-
-
+```
 Name : Tom francies xaviour L
 Ref no : 212223110060
 Date of experiment :13/06/2024
-
-
+```
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 
